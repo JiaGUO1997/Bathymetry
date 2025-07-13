@@ -4,13 +4,14 @@ This repository contains the official code for the paper:
 Bathymetry of the Philippine Sea with Convolution Neural Network from Multisource Marine Geodetic Data
 Author: Jia Guo,1 Shuai Zhou,2,3 and Jinyun Guo4,* 
 
-
+'''
 ├── code/ # Dataset or sample data (optional)
 │ ├── main.py # main function
 │ ├── commands_creat.py # prepare the runing command for the main file
 │ ├── SEA_data_preparation.py # preprocess the ship-borne bathymetric data
 │ └── modelpara.py # Necessary support 
 └── README.md # Project documentation
+'''
 
 We recommend using Python 3.12.7
 netCDF4 should in installed for the charge of the geodetic data ending with 
