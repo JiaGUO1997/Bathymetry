@@ -15,9 +15,11 @@ Author: Jia Guo,1 Shuai Zhou,2,3 and Jinyun Guo4,*
 └── README.md # Project documentation
 '''
 </pre>
-We recommend using Python 3.12.7
-netCDF4 should in installed for the charge of the geodetic data ending with 
-nc
+We recommend using Python 3.12.7 with pytorch
+
+netCDF4 should in installed for the charge of the geodetic data ending with .nc
+
+Dataset used:
 
 Single-beam ship-borne bathymetry is available at https://www.ncei.noaa.gov/maps/bathymetry/, last access: 20 February 2025
 
